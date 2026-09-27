@@ -21,3 +21,6 @@ Kode untuk membuat paragraf adalah "<p>"
 
 ### Menambahkan list 
 ![Gambar6](screenshot/Menambahkan%20list.png)
+
+### Menambahkan Komentar
+![Gambar7](screenshot/Menambahkan%20komentar.png)
