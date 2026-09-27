@@ -25,5 +25,5 @@ Kode untuk membuat paragraf adalah "<p>"
 ### Menambahkan Komentar
 ![Gambar7](screenshot/Menambahkan%20komentar.png)
 
-### Menggabungkan Semua Elemen
+### Menggabungkan Semua Elemen 
 ![Gambar8](screenshot/Menggabungkan%20semua%20elemen.png)
