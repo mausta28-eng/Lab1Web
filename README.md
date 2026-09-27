@@ -4,4 +4,4 @@
 ### Membuat Struktur Dasar Dokumen HTML
 kode tag untuk paragraf adalah "<p>"
 ini adalah tampilannya
-![img]screenshot/ss1.png
+![Gambar1](screenshot/ss1.png.png)
