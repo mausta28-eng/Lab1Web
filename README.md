@@ -15,3 +15,6 @@ Kode untuk membuat paragraf adalah "<p>"
 
 ### Menyisipkan gambar
 ![Gambar4](screenshot/Menyisipkan%20gambar.png)
+
+### Menambahkan Hyperlink 
+![Gambar5](screenshot/Menambahkan%20Hyperlink.png)
