@@ -12,3 +12,6 @@ Kode untuk membuat paragraf adalah "<p>"
 
 ### Memformat Teks
 ![Gambar3](screenshot/memformat%20teks.png.png)
+
+### Menyisipkan gambar
+![Gambar4](screenshot/Menyisipkan%20gambar.png)
