@@ -9,3 +9,6 @@ ini adalah tampilannya
 ### Membuat paragraf 
 Kode untuk membuat paragraf adalah "<p>"
 ![Gambar2](screenshot/Membuat%20paragraf.png)
+
+### Memformat Teks
+![Gambar3](screenshot/memformat%20teks.png.png)
